@@ -1,9 +1,8 @@
 --------------------------------------------------------------------------------------------------------------------
 if any problem in gemini_api then reset it from:
-https://aistudio.google.com/app/u/1/apikey?_gl=1*qja8r1*_ga*MTY0ODk5NzkzLjE3MzM0OTY4ODI.*_ga_P1DBVKWT6V*MTczMzU1MjgwNy4yLjEuMTczMzU1MzAzNS4xOC4wLjExOTY1OTgwOA.
+https://aistudio.google.com/app/u/1/apikey
 
 if any problem in whether_api then reset it from:
-TRIAL Ends on 20/Dec/2024
 https://www.weatherapi.com/
 
 if any problem in groq_api then reset it from:
